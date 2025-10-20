@@ -1,3 +1,8 @@
+## Membros do Grupo
+- André Rogério Vieira Pavanela Altobelli Antunes - RM: 554764
+- Enrico Figueiredo Del Guerra - RM: 558604
+- Leticia Cristina Dos Santos Passos - RM: 555241
+
 ## SafeScribe - API RESTful com Autenticação e Autorização JWT
 
 Projeto ASP.NET Core Web API (.NET 9) que implementa autenticação e autorização com JWT, regras de acesso por roles, proteção de endpoints, DTOs, EF Core InMemory, logout com blacklist de tokens e Swagger com suporte a Bearer.
@@ -230,11 +235,6 @@ cp5.net/
 - Separação clara de responsabilidades por pastas
 - Configuração JWT isolada em extensão
 - Middleware personalizado para blacklist
-
-### Membros do Grupo
-- André Rogério Vieira Pavanela Altobelli Antunes - RM: 554764
-- Enrico Figueiredo Del Guerra - RM: 558604
-- Leticia Cristina Dos Santos Passos - RM: 555241
 
 ### Critérios de Avaliação - Checklist
 - Configuração JWT (Program/appsettings): OK
